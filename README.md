@@ -42,18 +42,6 @@ A preconfigured **Kali Linux 2025** virtual machine template for **UTM** on **Ma
 
 ---
 
-## 🛠️ Tools Included
-
-Essential tools preinstalled and ready:
-
-- Nmap, Burp Suite, Wireshark
-- LinPEAS, WinPEAS
-- Metasploit Framework
-- Feroxbuster, ffuf, gobuster
-- Python 3, pip, git, gcc
-
----
-
 ## 🔄 Maintained & Updated
 
 This image is actively maintained with:
