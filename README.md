@@ -21,7 +21,7 @@ A preconfigured **Kali Linux 2025** virtual machine template for **UTM** on **Ma
 
 ## 🧠 Requirements
 
-- Mac with **Apple Silicon** (M1/M2/M3)
+- Mac with **Apple Silicon** (M1/M2/M3/M4)
 - [UTM installed](https://mac.getutm.app)
 - At least **4 GB RAM**
 - **15–20 GB** of free disk space
