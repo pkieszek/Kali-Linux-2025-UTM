@@ -1,6 +1,6 @@
 # Kali Linux 2025 UTM (Apple Silicon) 🔐
 
-A preconfigured **Kali Linux 2025** virtual machine template for **UTM** on **Macs with Apple Silicon (M1/M2/M3)**.
+A preconfigured **Kali Linux 2025** virtual machine template for **UTM** on **Macs with Apple Silicon (M1/M2/M3/M4)**.
 
 📆 Updated on **July 29, 2025** with the **latest official signing keys and repositories** from [kali.org](https://www.kali.org).
 
