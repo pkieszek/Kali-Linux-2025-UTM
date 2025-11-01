@@ -2,7 +2,7 @@
 
 A preconfigured **Kali Linux 2025** virtual machine template for **UTM** on **Macs with Apple Silicon (M1/M2/M3/M4)**.
 
-📆 Updated on **July 29, 2025** with the **latest official signing keys and repositories** from [kali.org](https://www.kali.org).
+📆 Updated on **November 2, 2025** with the **latest official signing keys and repositories** from [kali.org](https://www.kali.org).
 
 ![Kali Screenshot](https://github.com/user-attachments/assets/0827d5a8-37d2-45eb-98c1-e9daf30d085c)
 
